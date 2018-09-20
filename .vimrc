@@ -4,7 +4,7 @@ set encoding=utf-8
 "pathogen plugin manger
 execute pathogen#infect()
 
-
+set mouse=a
 
 filetype plugin indent on    " required
 
